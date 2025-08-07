@@ -5,7 +5,7 @@ const Card = () => {
     return (
 
         <>
-        <div className="card shadow-[0px_0px_20px_0px_rgba(0,_0,_0,_0.1)]">
+        <div className="card shadow-[0px_0px_20px_0px_rgba(0,_0,_0,_0.1)] aqui">
             <div className="representative shadow-[0px_0px_20px_0px_rgba(0,_0,_0,_0.1)]">
                 <img src="./img/medalha.svg" alt="Medalha" />
                 <span>Representative</span>
