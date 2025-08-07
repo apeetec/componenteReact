@@ -2,10 +2,7 @@ import React, { useRef, useEffect } from "react";
 import { gsap } from "gsap";
 // Criei esse PopUp seguindo esse código de referência https://codepen.io/artisticMK/pen/JjZxXxM
 const Popup = () => {
-
 var authAnimation
-  
-
 const openAuthModal = () => {
     authAnimation = gsap.timeline({ defaults: { ease: "power2.inOut" }})
     .to("#authOverlay", {scaleY: 0.01, x: 1, opacity: 1, display: "flex", duration: 0.4})
