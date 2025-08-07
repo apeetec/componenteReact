@@ -71,4 +71,5 @@ strong{font-weight: bold;font-size: 1.5rem;}
   .content{grid-template-columns: 1fr;}
   .buttons{flex-wrap: wrap;}
   .m-auto{margin-top: inherit!important;}
+  .btn-large{flex: 1 1 100%;}
 }
