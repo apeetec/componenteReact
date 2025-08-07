@@ -1,12 +1,24 @@
-# React + Vite
+# Projeto - Avaliação GRI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto front-end moderno desenvolvido com [React](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/) e [Vite](https://vitejs.dev/), com deploy automatizado via GitHub Pages. O projeto visa a criação de uma interface interativa utilizando animações com [GSAP](https://gsap.com/).
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React 19](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [GSAP](https://gsap.com/)
+- [ESLint](https://eslint.org/)
+- Deploy via [gh-pages](https://www.npmjs.com/package/gh-pages)
 
-## Expanding the ESLint configuration
+  Link do preview: https://apeetec.github.io/avalicaoGRI/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Instalação
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+
+# Instale as dependências
+npm install
