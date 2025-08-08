@@ -11,7 +11,7 @@ Este é um projeto front-end moderno desenvolvido com [React](https://react.dev/
 - [ESLint](https://eslint.org/)
 - Deploy via [gh-pages](https://www.npmjs.com/package/gh-pages)
 
-  Link do preview: https://apeetec.github.io/avalicaoGRI/
+
 
 ## 📦 Instalação
 
