@@ -10,7 +10,7 @@ Este é um projeto front-end moderno desenvolvido com [React](https://react.dev/
 - [GSAP](https://gsap.com/)
 - [ESLint](https://eslint.org/)
 - Deploy via [gh-pages](https://www.npmjs.com/package/gh-pages)
-
+- Link de preview: https://apeetec.github.io/projeto/
 
 
 ## 📦 Instalação
