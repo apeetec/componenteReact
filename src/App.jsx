@@ -11,7 +11,11 @@ function App() {
 
   return (
     <>
+    <div className="flex-box">
       <Card/>
+      <Card/>
+      <Card/>
+    </div>
     </>
   )
 }
