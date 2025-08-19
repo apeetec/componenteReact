@@ -20,7 +20,7 @@ const Card = () => {
                         <div className="single">
                         <div>
                             <h1 className="name">
-                            Armless John
+                            Gabriel Batista
                             </h1>
                             <p className="position">
                             Software Developer 
@@ -34,7 +34,7 @@ const Card = () => {
                         </div>
                         <div className="single">
                         <div>
-                            <p className="tools">Servers, Web and Mobile</p>
+                            <p className="tools">Web and Mobile</p>
                         </div>
                         <div>
                             <img className="star" src="./img/estrela.svg" alt="Medalha" />
