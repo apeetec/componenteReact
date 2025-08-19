@@ -14,7 +14,7 @@ const Card = () => {
 
                 <div className="content">
                     <div className="profile-picture">
-                        <img src="./img/0031R00002OUMta_Marketing_Edited_Photo_2025-02-03_11-53-29.jpg" alt="" className="picture" />
+                        <img src="" alt="" className="picture" />
                     </div>
                     <div className="texts">
                         <div className="single">
