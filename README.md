@@ -10,15 +10,6 @@ Este é um projeto front-end moderno desenvolvido com [React](https://react.dev/
 - [GSAP](https://gsap.com/)
 - [ESLint](https://eslint.org/)
 - Deploy via [gh-pages](https://www.npmjs.com/package/gh-pages)
-- Link de preview: https://apeetec.github.io/projeto/
+- Link de preview: https://apeetec.github.io/componenteReact/
 
 
-## 📦 Instalação
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-
-# Instale as dependências
-npm install
