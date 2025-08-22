@@ -13,8 +13,8 @@ function App() {
     <>
     <div className="flex-box">
       <Card/>
-      <Card/>
-      <Card/>
+      {/* <Card/>
+      <Card/> */}
     </div>
     </>
   )
